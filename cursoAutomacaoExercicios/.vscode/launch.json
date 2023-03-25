@@ -1,0 +1,105 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "exe9VETOR",
+            "request": "launch",
+            "mainClass": "exe9VETOR",
+            "projectName": "cursoAutomacaoExercicios_4afabf85"
+        },
+        {
+            "type": "java",
+            "name": "exe7VETOR",
+            "request": "launch",
+            "mainClass": "exe7VETOR",
+            "projectName": "cursoAutomacaoExercicios_4afabf85"
+        },
+        {
+            "type": "java",
+            "name": "TreinoExe",
+            "request": "launch",
+            "mainClass": "TreinoExe",
+            "projectName": "cursoAutomacaoExercicios_4afabf85"
+        },
+        {
+            "type": "java",
+            "name": "exe4VETOR",
+            "request": "launch",
+            "mainClass": "exe4VETOR",
+            "projectName": "cursoAutomacaoExercicios_4afabf85"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ExerCasa1",
+            "request": "launch",
+            "mainClass": "ExerCasa1",
+            "projectName": "cursoAutomacaoExercicios_4afabf85"
+        },
+        {
+            "type": "java",
+            "name": "ExercicioUmCasa$ExerCasa1",
+            "request": "launch",
+            "mainClass": "ExercicioUmCasa$ExerCasa1",
+            "projectName": "cursoAutomacaoExercicios_4afabf85"
+        },
+        {
+            "type": "java",
+            "name": "exe1",
+            "request": "launch",
+            "mainClass": "exe1",
+            "projectName": "cursoAutomacaoExercicios_4afabf85"
+        },
+        {
+            "type": "java",
+            "name": "exe2",
+            "request": "launch",
+            "mainClass": "exe2",
+            "projectName": "cursoAutomacaoExercicios_4afabf85"
+        },
+        {
+            "type": "java",
+            "name": "exe3",
+            "request": "launch",
+            "mainClass": "exe3",
+            "projectName": "cursoAutomacaoExercicios_4afabf85"
+        },
+        {
+            "type": "java",
+            "name": "exe9",
+            "request": "launch",
+            "mainClass": "exe9",
+            "projectName": "cursoAutomacaoExercicios_4afabf85"
+        },
+        {
+            "type": "java",
+            "name": "exeExtra",
+            "request": "launch",
+            "mainClass": "exeExtra",
+            "projectName": "cursoAutomacaoExercicios_4afabf85"
+        },
+        {
+            "type": "java",
+            "name": "exeteste",
+            "request": "launch",
+            "mainClass": "exeteste",
+            "projectName": "cursoAutomacaoExercicios_4afabf85"
+        },
+        {
+            "type": "java",
+            "name": "exeteste2",
+            "request": "launch",
+            "mainClass": "exeteste2",
+            "projectName": "cursoAutomacaoExercicios_4afabf85"
+        }
+    ]
+}
